@@ -1,6 +1,6 @@
 body{  
 
-background-image: url("pic.png");
+background-image: url("le.png");
        background-repeat:no-repeat;
 
    background-size:cover;
@@ -52,5 +52,5 @@ header p {
   margin: 0;
 }
 
-a { color: #C8C8C8;   padding: 0 20px;
+a { color: Black;   padding: 0 20px;
   margin: 0;}
