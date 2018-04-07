@@ -1,0 +1,39 @@
+header {
+  padding: 30px 0;
+}
+
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav { font-weight: bold;
+  display: flex;
+  justify-content: flex-end;
+  color:  	#DAA520;
+  font-size: 23px;
+  font-family:'Comic Sans MS';
+}
+
+header p {
+  padding: 0 10px;
+  margin: 0;
+}
+
+a { color:  #DAA520;
+font-weight: bold; }
+
+body { background-image: url("vint.png");
+     background-repeat:no-repeat;
+
+   background-size:cover; }
+   
+.container { font-size: 20px;
+		      <!--	font-family: 'Comic Sans MS'; -->
+text-align: left}
+			

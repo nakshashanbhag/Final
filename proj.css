@@ -1,0 +1,20 @@
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+	  
+	background-image: url("vint.png");
+	 background-repeat:no-repeat;
+	background-size:cover;
+	font-size: 25px;
+	color: 	#0e1111;
+	font-weight: bold;
+	
+}
+
+a { color:#800000;
+font-weight: normal;}
+
+p { font-weight: bold;
+font-size: 30px;}

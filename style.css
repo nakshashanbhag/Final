@@ -1,0 +1,56 @@
+body{  
+
+background-image: url("pic.png");
+       background-repeat:no-repeat;
+
+   background-size:cover;
+  
+ }
+ 
+.name { position: absolute;
+	     top:45%;
+		 left: 50%;
+transform: translate(-50%, -50%); 
+color: #080808;
+font-family: forte;
+font-size: 43px;
+}
+
+.topic { position: absolute;
+	     top:55%;
+		 left: 50%;
+transform: translate(-50%, -50%);
+color: #080808;
+font-family: 'comic sans MS';
+font-size: 43px;
+
+ }
+header {
+  padding: 30px 0;
+}
+
+header .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  color: #C8C8C8;
+  font-size: 23px;
+  padding: 0 20px;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+a { color: #C8C8C8;   padding: 0 20px;
+  margin: 0;}
