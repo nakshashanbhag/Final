@@ -15,9 +15,9 @@ header h1 {
 header nav { font-weight: bold;
   display: flex;
   justify-content: flex-end;
-  color:  	#DAA520;
-  font-size: 23px;
-  font-family:'Comic Sans MS';
+  color:  #ffdb58;
+  font-size: 22px;
+  font-family:'Lucida Bright';
 }
 
 header p {
@@ -28,12 +28,18 @@ header p {
 a { color:  #DAA520;
 font-weight: bold; }
 
-body { background-image: url("vint.png");
+body { background-image: url("abs.png");
      background-repeat:no-repeat;
 
    background-size:cover; }
    
 .container { font-size: 20px;
-		      <!--	font-family: 'Comic Sans MS'; -->
+		      
 text-align: left}
+
+.jumbotron { color: #003366; }
 			
+<!---.jumbotron
+{ background-image : url("lig.png");
+ background-repeat:no-repeat;
+	background-size:cover;} --->

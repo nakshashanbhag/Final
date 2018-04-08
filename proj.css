@@ -1,20 +1,32 @@
 body {
-    margin-top: 100px;
+    margin-top: 200px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
 	  
-	background-image: url("par.png");
+	background-image: url("ora.png");
 	 background-repeat:no-repeat;
 	background-size:cover;
-	font-size: 25px;
-	color: 	#0e1111;
+	font-size: 24px;
 	font-weight: bold;
+	
+	
+	color: #191919;
 	
 }
 
-a { color:#800000;
-font-weight: normal;}
+a { color: #323232;
+font-weight: normal;
+font-size: 20px;}
 
 p { font-weight: bold;
-font-size: 30px;}
+font-size: 30px;
+font-family: Cambria;}
+
+ ul li:before {
+
+         content: "\2666 \0020";
+}
+ ul {
+    list-style: none;
+}
