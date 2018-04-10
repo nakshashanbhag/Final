@@ -1,10 +1,10 @@
 body {
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-right: 60px;
+    margin-left: 420px;
 	  
-	background-image: url("parro.png");
+	background-image: url("leaf.png");
 	 background-repeat:no-repeat;
 	background-size:cover;
 	font-size: 22px;
@@ -15,14 +15,25 @@ body {
 	
 }
 
-a { color:#D3D3D3;  
+.red a { color: 	#DC143C 	;  
 font-weight: normal;
 font-size: 20px;}
-
+.orange a { color:#FF4500 	;  
+font-weight: normal;
+font-size: 20px;}
+.yel a { color: #DAA520	;  
+font-weight: normal;
+font-size: 20px;}
+.yellow a { color: 	#808000 	;  
+font-weight: normal;
+font-size: 20px;}
+.green a { color:#006400	;  
+font-weight: normal;
+font-size: 20px;}
 p { font-weight: bold;
 font-size: 30px;
 font-family: Cambria;
-color:   	#D3D3D3}
+color: 	#B22222;}
 
  ul li:before {
 
@@ -35,12 +46,12 @@ color:   	#D3D3D3}
 .title { text-align: center;
 color: #ffdb58;}
 
-.red { color:  #FF2400;}
+.red { color:   	#DC143C;}
 
 .orange{color: 	#FF4500;}
-.yel { color:  #FFA500;}
-.yellow { color: #FCD116	;}
-.green{ color: #32CD32;}
+.yel { color: #DAA520;}
+.yellow { color:  	#808000 ;}
+.green{ color:  #006400;}
 a { 
 font-weight: normal;
 font-size: 20px;}
