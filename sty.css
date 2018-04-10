@@ -34,10 +34,12 @@ body { background-image: url("blu.png");
    background-size:cover; }
    
 .container { font-size: 20px;
-		      
-text-align: left}
+		     text-align: left;
+			 }
 
 .jumbotron { color: #003366; }
+
+
 			
 <!---.jumbotron
 { background-image : url("lig.png");
