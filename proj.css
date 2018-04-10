@@ -1,27 +1,28 @@
 body {
-    margin-top: 200px;
+    margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
-    margin-left: 340px;
+    margin-left: 80px;
 	  
-	background-image: url("nib.png");
+	background-image: url("parro.png");
 	 background-repeat:no-repeat;
 	background-size:cover;
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: bold;
 	
 	
-	color: #191919;
+	color: #fffff0;
 	
 }
 
-a { color: #323232;
+a { color:#D3D3D3;  
 font-weight: normal;
 font-size: 20px;}
 
 p { font-weight: bold;
 font-size: 30px;
-font-family: Cambria;}
+font-family: Cambria;
+color:   	#D3D3D3}
 
  ul li:before {
 
@@ -30,3 +31,16 @@ font-family: Cambria;}
  ul {
     list-style: none;
 }
+
+.title { text-align: center;
+color: #ffdb58;}
+
+.red { color:  #FF2400;}
+
+.orange{color: 	#FF4500;}
+.yel { color:  #FFA500;}
+.yellow { color: #FCD116	;}
+.green{ color: #32CD32;}
+a { 
+font-weight: normal;
+font-size: 20px;}
